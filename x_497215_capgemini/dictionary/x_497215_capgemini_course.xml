@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Course" max_length="40" name="x_497215_capgemini_course" sizeclass="2" type="collection">
+        <element display="true" label="Course Name" mandatory="true" max_length="50" name="course_name" type="string"/>
+        <element label="Description" max_length="100" name="description" type="string"/>
+    </element>
+</database>

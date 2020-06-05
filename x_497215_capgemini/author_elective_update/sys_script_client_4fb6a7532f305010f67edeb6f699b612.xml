@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Lab 2.1 onLoad Client Script</description>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Lab 2.1 onLoad Alert</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+    alert("The Form loaded redy to Use It ");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:06:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4fb6a7532f305010f67edeb6f699b612</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lab 2.1 onLoad Alert</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capgemini Assignment" source="x_497215_capgemini">976b90572f381010f67edeb6f699b662</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</sys_scope>
+        <sys_update_name>sys_script_client_4fb6a7532f305010f67edeb6f699b612</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:10:14</sys_updated_on>
+        <table>incident</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</application>
+        <file_path/>
+        <instance_id>cffdf9d1db8bff400ae3ac44d49619b2</instance_id>
+        <instance_name>dev90477</instance_name>
+        <name>sys_script_client_4fb6a7532f305010f67edeb6f699b612</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Lab 2.1 onLoad Client Script&lt;/description&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Lab 2.1 onLoad Alert&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+    alert("The Form loaded redy to Use It ");
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-21 09:06:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4fb6a7532f305010f67edeb6f699b612&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Lab 2.1 onLoad Alert&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Capgemini Assignment" source="x_497215_capgemini"&gt;976b90572f381010f67edeb6f699b662&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Capgemini Assignment"&gt;976b90572f381010f67edeb6f699b662&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_4fb6a7532f305010f67edeb6f699b612&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-21 09:10:14&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1461678936</payload_hash>
+        <record_name>Lab 2.1 onLoad Alert</record_name>
+        <reverted_from/>
+        <source>2b6b90572f381010f67edeb6f699b664</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:10:14</sys_created_on>
+        <sys_id>4be7a7932f305010f67edeb6f699b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172367f56e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:10:14</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>83e7a79310305010b1364e5893ab5f7a</update_guid>
+        <update_guid_history>83e7a79310305010b1364e5893ab5f7a:-1461678936,e827ab53073050104eb9130ababae0a0:-1295142501</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 10:06:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>13408734169e428085dee57256f22400</sys_id>
+        <sys_metadata>4fb6a7532f305010f67edeb6f699b612</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lab 2.1 onLoad Alert</sys_name>
+        <sys_package display_value="Capgemini Assignment" source="x_497215_capgemini">976b90572f381010f67edeb6f699b662</sys_package>
+        <sys_parent display_value="Incident">0476ff8b2ff01010f67edeb6f699b658</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</sys_scope>
+        <sys_scope_delete display_value="">469a682196a44602a425a5589b2ed529</sys_scope_delete>
+        <sys_update_name>sys_script_client_4fb6a7532f305010f67edeb6f699b612</sys_update_name>
+        <sys_update_version display_value="sys_script_client_4fb6a7532f305010f67edeb6f699b612">4be7a7932f305010f67edeb6f699b67a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 10:06:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

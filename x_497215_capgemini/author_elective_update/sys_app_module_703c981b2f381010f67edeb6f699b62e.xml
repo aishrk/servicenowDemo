@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Capgemini Assignment">783c90572f381010f67edeb6f699b6b1</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order>6</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 18:20:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>703c981b2f381010f67edeb6f699b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capgemini Assignment" source="x_497215_capgemini">976b90572f381010f67edeb6f699b662</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</sys_scope>
+        <sys_update_name>sys_app_module_703c981b2f381010f67edeb6f699b62e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 18:20:09</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</application>
+        <file_path/>
+        <instance_id>cffdf9d1db8bff400ae3ac44d49619b2</instance_id>
+        <instance_name>dev90477</instance_name>
+        <name>sys_app_module_703c981b2f381010f67edeb6f699b62e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Capgemini Assignment">783c90572f381010f67edeb6f699b6b1</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>incident</name><order>6</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-20 18:20:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>703c981b2f381010f67edeb6f699b62e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Capgemini Assignment" source="x_497215_capgemini">976b90572f381010f67edeb6f699b662</sys_package><sys_policy/><sys_scope display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</sys_scope><sys_update_name>sys_app_module_703c981b2f381010f67edeb6f699b62e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-20 18:20:09</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-446321594</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>2b6b90572f381010f67edeb6f699b664</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 18:20:10</sys_created_on>
+        <sys_id>f43c981b2f381010f67edeb6f699b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172335073930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 18:20:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>303c981bdd381010b3c12b3a93086c2f</update_guid>
+        <update_guid_history>303c981bdd381010b3c12b3a93086c2f:-446321594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">a7f4bf9b2f305010f67edeb6f699b6ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 10:07:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>498b43f04d164822b631bc5d897b9764</sys_id>
+        <sys_metadata>703c981b2f381010f67edeb6f699b62e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Capgemini Assignment" source="x_497215_capgemini">976b90572f381010f67edeb6f699b662</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini Assignment">976b90572f381010f67edeb6f699b662</sys_scope>
+        <sys_scope_delete display_value="">469a682196a44602a425a5589b2ed529</sys_scope_delete>
+        <sys_update_name>sys_app_module_703c981b2f381010f67edeb6f699b62e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_703c981b2f381010f67edeb6f699b62e">f43c981b2f381010f67edeb6f699b62f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 10:07:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
